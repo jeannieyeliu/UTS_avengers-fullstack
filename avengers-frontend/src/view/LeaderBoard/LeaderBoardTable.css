@@ -1,0 +1,16 @@
+/* References: */
+/* https://www.w3schools.com/tags/att_table_cellspacing.asp */
+tr
+{
+    margin:0;
+    padding:0;
+}
+td
+{
+    margin:0;
+    padding:0;
+}
+table
+{
+    cellspacing: "10";
+}

@@ -1,0 +1,9 @@
+{
+  "baseURL": "/api",
+  "loginApi": "/user/login",
+  "registerApi": "/user/register",
+  "qiniuTokenApi": "/qiniu/token",
+  "forgotPasswordApi": "/user/forget_password/send_email",
+  "resetPasswordApi": "/user/forget_password/update_password",
+  "qiniuUrl": "http://pxwr244x6.sabkt.gdipper.com/"
+}

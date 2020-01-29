@@ -1,0 +1,15 @@
+body {
+  margin: 0px;
+  background: #dae0e6;
+}
+
+a {
+  text-decoration: none;
+}
+.main-body {
+  margin-top: 30px;
+}
+
+.logo a {
+  color: black;
+}

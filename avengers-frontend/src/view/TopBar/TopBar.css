@@ -1,0 +1,62 @@
+/* button a {
+  color: white;
+} */
+
+/* button a:hover {
+  color: #33a8ff;
+} */
+
+button,
+.btn-signup {
+  border: 1px solid#33a8ff;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+
+.btn-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.btn-signin {
+  border: 1px solid#33a8ff;
+  background: white;
+}
+.btn-signin a {
+  color: #33a8ff;
+}
+.btn-signin a:hover {
+  color: #81c8ff;
+}
+.btn-signin:hover {
+  border: 1px solid#81c8ff;
+  background: white;
+  border: 1px solid#56b6ff;
+}
+
+.btn-signup {
+  background: #33a8ff;
+}
+
+.btn-signup a {
+  color: white;
+}
+
+.btn-signup a:hover {
+  color: #33a8ff;
+}
+
+.btn-create-post  {
+  box-shadow: none !important;
+  width: 35px;
+  height: 35px;
+}
+
+.logo {
+  color: black;
+}
+
+a {
+  text-decoration: none
+}
